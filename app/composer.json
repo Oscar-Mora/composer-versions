@@ -1,0 +1,17 @@
+{
+    "name": "oscar/app",
+    "autoload": {
+        "psr-4": {
+            "Oscar\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oscar Mora",
+            "email": "ozzqarmora@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
